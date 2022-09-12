@@ -1,0 +1,13 @@
+{
+    "name": "proton-nodejs-example",
+    "version": "1.0.0",
+    "description": "This project is created for testing purpose.",
+    "author": "Prabuddha Alahakoon",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    }, 
+    "dependencies": {
+      "express": "^4.16.1"
+    }
+  }
