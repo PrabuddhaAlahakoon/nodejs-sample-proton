@@ -4,6 +4,7 @@ Steps for Proton Demo.
 
 First you have to create an environment template. here you have two options. one is to use the templates provided by aws (fargate) or use a custom environment which is created by you.
 For both first few steps are similar.
+
 	1. Go to environment templates 
 	2. Create environtment template
 		Here you have the option to select a sample bundle from aws (fargate or lambda)
